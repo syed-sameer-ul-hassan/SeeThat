@@ -88,9 +88,10 @@ graph LR
 ## Folder Structure
 
 ```
-SEE THAT/
-├── SEE_THAT.md       ← This documentation file
-└── seethat.sh        ← The scanner script
+SEE_THAT/
+├── README.md        
+|── LICENSE
+└── see_that.sh       
 ```
 
 ---
