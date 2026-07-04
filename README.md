@@ -1,17 +1,11 @@
+<p align="center">
+  <img src="assets/SeeThat.svg" alt="SeeThat logo" width="600"/>
+</p>
 
 
-```
-       __    __  __   _____        _   _____ 
-      / _\  /__\/__\ /__   \/\  /\/_\ /__   \
-      \ \  /_\ /_\     / /\/ /_/ //_\\  / /\/
-      _\ \//__//__    / / / __  /  _  \/ /   
-      \__/\__/\__/    \/  \/ /_/\_/ \_/\/    
+---
 
-  ≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
-  Advanced Port Scanner  | S E E  T H A T |  v1.0
-  ≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
-Author: SYED SAMEER UL HASSAN  |  License: Apache 2.0
-```
+###SeeThat
 
 > **SEE THAT** is a pure-bash, zero-dependency advanced port scanner with parallel scanning, banner grabbing, service fingerprinting, wifite2-style interactive controls, and JSON/TXT output. Built for CCT-certified security professionals.
 
